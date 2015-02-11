@@ -1,8 +1,5 @@
 package my.addressParser;
 
-//jallajalla
-//asldksdjlfhsdglsdhglsdglasdghs
-
 
 
 import java.awt.BorderLayout;
@@ -35,8 +32,6 @@ public class FileChooser extends JPanel implements ActionListener {
 	JFileChooser fc;
 	public static JFrame frame;
 
-	public String Helviti;
-	
 	
 	
 	public FileChooser() {
